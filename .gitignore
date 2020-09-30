@@ -3,4 +3,7 @@
 *.pyc
 *.csv
 *.html
+*.css
 utils/
+legal/
+quaderno/
